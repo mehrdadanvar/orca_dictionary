@@ -17,7 +17,7 @@ git clone https://github.com/mehrdadanvar/orca_dictionary
 ```
 
 Once cloned navigate to the api folder/directory
-based on your preferences you may wish to install a python virtual envirnoment by running
+based on your preferences you may wish to install a python virtual environment by running
 
 ```bash
 
@@ -35,4 +35,4 @@ pip install -r requirements.txt
 
 ## V1 Popular English Words
 
-This version is a small and simple collection of 25K common English words that elementary to upper intermediate learners can benefit from. All of the words are can be found in a the <code>populars.json</code> file in the api directory. The file represents a list of 25K objects each of which represent a word with a 3 key-value pairs.
+This version is a small and simple collection of 25K common English words that elementary to upper intermediate learners can benefit from. All of the words can be found in a the <code>populars.json</code> file in the api directory. The file represents a list of 25K objects each of which represent a word with a 3 key-value pairs.
