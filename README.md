@@ -1,7 +1,7 @@
 # Orca Dictionary
 
 <p align="center">
-<img  width="200" height="200" src="orca.png">
+<img  width="300" height="300" src="g2.svg">
 
 </p>
 
